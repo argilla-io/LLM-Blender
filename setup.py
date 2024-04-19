@@ -14,7 +14,7 @@ setup(
         'torch',
         'wget',
         'pycocoevalcap',
-        'spacy',
+        'spacy==3.5.1',
         'prettytable',
         'fairscale',
         'evaluate',
