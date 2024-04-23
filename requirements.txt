@@ -99,7 +99,7 @@ httpcore==0.17.0
 httplib2==0.21.0
 httpx==0.24.0
 huggingface-hub==0.14.1
-idna==3.4
+idna==3.7
 immutabledict==2.2.4
 importlib-metadata @ file:///croot/importlib-metadata_1678997070253/work
 importlib-resources==5.12.0
