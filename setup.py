@@ -14,7 +14,7 @@ setup(
         'torch',
         'wget',
         'pycocoevalcap',
-        'spacy==3.5.1',
+        'spacy>=3.6.1',  # Pin to fix installation and 3.6.1 for `pydantic` v2 support
         'prettytable',
         'fairscale',
         'evaluate',
