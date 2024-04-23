@@ -172,7 +172,7 @@ pathy==0.10.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 pid==3.0.4
-Pillow==9.4.0
+Pillow==10.3.0
 platformdirs @ file:///opt/conda/conda-bld/platformdirs_1662711380096/work
 plotly==5.14.0
 pluggy==1.0.0
