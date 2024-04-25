@@ -201,7 +201,7 @@ pycocotools==2.0.6
 pycodestyle==2.10.0
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pycryptodomex==3.17
-pydantic==1.10.7
+pydantic==1.10.13
 pydeck==0.8.0
 pydicom==2.3.1
 pydot==1.4.2
