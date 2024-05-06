@@ -113,7 +113,7 @@ isort==5.8.0
 jax==0.4.8
 jaxlib==0.4.7
 jedi @ file:///tmp/build/80754af9/jedi_1644297102865/work
-Jinja2==3.1.2
+Jinja2==3.1.4
 joblib==1.2.0
 jsonlines==3.1.0
 jsonschema==4.17.3
